@@ -1,4 +1,3 @@
-# HR-Analytics-PowerBI-Dashboard
 # HR Analytics & Workforce Insights Dashboard
 
 An interactive Power BI dashboard analysing employee attrition using the IBM HR Analytics dataset (1,470 employees).
